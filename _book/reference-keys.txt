@@ -1,0 +1,12 @@
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+the-machine-learning-landscape
+what-is-machine-learning
+why-use-machine-learning
+methods
+applications
+example-one
+example-two
+final-words
