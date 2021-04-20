@@ -1,0 +1,27 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 80
+---
+
+# Neural Networks and Deep Learning
+
+## Why Deep learning
+
+Birds inspired us to fly, burdock plants inspired velcro, and countless more
+inven‐ tions were inspired by nature. It seems only logical, then, to look at
+the brain's archi‐ tecture for inspiration on how to build an intelligent
+machine. This is the key idea that sparked artificial neural networks (ANNs).
+However, although planes were inspired by birds, they don't have to flap their
+wings. Similarly, ANNs have gradually become quite different from their
+biological cousins. Some researchers even argue that we should drop the
+biological analogy altogether (e.g., by saying "units" rather than "neurons"),
+lest we restrict our creativity to biologically plausible systems.
+
+ANNs are at the very core of Deep Learning. They are versatile, powerful, and
+scala‐ ble, making them ideal to tackle large and highly complex Machine
+Learning tasks, such as classifying billions of images (e.g., Google Images),
+powering speech recogni‐ tion services (e.g., Apple's Siri), recommending the
+best videos to watch to hundreds of millions of users every day (e.g., YouTube),
+or learning to beat the world champion at the game of Go by playing millions of
+games against itself (DeepMind's Alpha‐ Zero).
